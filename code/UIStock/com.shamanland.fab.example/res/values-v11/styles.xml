@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Light" parent="android:Theme.Holo.Light">
+        <item name="icActionEdit">@drawable/ic_action_edit_light</item>
+        <item name="floatingActionButtonStyle">@style/AppTheme.Fab.Light</item>
+    </style>
+
+    <style name="AppTheme.Dark" parent="android:Theme.Holo">
+        <item name="icActionEdit">@drawable/ic_action_edit_dark</item>
+        <item name="floatingActionButtonStyle">@style/AppTheme.Fab.Dark</item>
+    </style>
+</resources>
