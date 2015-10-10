@@ -1,0 +1,5 @@
+<resources>
+
+    <style name="TestApp.Light.NoTitleBar" parent="@style/Theme.AppCompat">
+    </style>
+</resources>
